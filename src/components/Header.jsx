@@ -9,7 +9,7 @@ export default function Header() {
                     <p className='font-semibold'>New</p>
                     <i className="fa-solid fa-plus"></i>
                 </a>
-                <div><button href="www.linkedin.com/in/saadkhaleeq610" className='flex items-center gap-2 specialBtn px-3 py-2 rounded-lg text-blue-400 font-semibold'>My LinkedIn</button>
+                <div><a href="https://pk.linkedin.com/in/saadkhaleeq610"><button className='flex items-center gap-2 specialBtn px-3 py-2 rounded-lg text-blue-400 font-semibold'>My LinkedIn</button></a>
                 </div>
             </div>
         </header>
